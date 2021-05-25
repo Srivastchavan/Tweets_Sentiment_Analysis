@@ -1,0 +1,5 @@
+Tweets Sentiment Analysis -
+
+	The search term used for sentiment analysis was "United states". The tweets with hashtag #unitedstates were collected and analyzed for the time period of little over 1 hour. Initially the count of negative tweets were very high(almost 300 per minute) but after some time the count of negative tweets decreased relative to the initial count and was oscillating between 50 to 100 per minute till the end. We can also see that the percentage of negative tweets were much higher compared to positive and neutral tweets from start to end. Almost 70%-90% tweets were consistently negative. 
+
+	Analyzing these stats, we can conclude that majority of tweets are centered around the current pandemic situation caused by COVID. 
